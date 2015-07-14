@@ -1,0 +1,24 @@
+h1{
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+}
+
+p{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+a{
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  text-decoration:none;
+  color:#11B9DA;
+}
+
+a.optionB{
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  text-decoration:none;
+  color:#1B51F2;
+  
+}
